@@ -10,23 +10,23 @@
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">43295ae1094232007f44e1046c8ff615</sp_column>
-        <sp_widget display_value="Notes List">06948fa8db3133000613a08a4896194c</sp_widget>
+        <sp_column display_value="2">b8fbb9a507359010ae15f8ed7c1ed02d</sp_column>
+        <sp_widget display_value="Notes Body Orlando">f29b79a507359010ae15f8ed7c1ed07a</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-30 18:18:27</sys_created_on>
-        <sys_id>34d587e4db3133000613a08a48961960</sys_id>
+        <sys_created_on>2020-07-04 07:52:07</sys_created_on>
+        <sys_id>effbf96507359010ae15f8ed7c1ed070</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_update_name>sp_instance_34d587e4db3133000613a08a48961960</sys_update_name>
+        <sys_update_name>sp_instance_effbf96507359010ae15f8ed7c1ed070</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-30 18:18:27</sys_updated_on>
+        <sys_updated_on>2020-07-04 07:52:07</sys_updated_on>
         <title/>
         <url/>
         <widget_parameters/>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=34d587e4db3133000613a08a48961960"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=effbf96507359010ae15f8ed7c1ed070"/>
 </record_update>
